@@ -11,6 +11,7 @@ SFO HOUSING Analysis  (stored as **san_francisco_housing.ipynb**) is a multi-fun
 
 * pandas 
 * hvplot
+* GeoViews (conda install -c conda-forge geoviews)
 
 ## Installation Guide
 
